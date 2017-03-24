@@ -1,3 +1,3 @@
-#Jackson Heights
+# Jackson Heights
 
-[Jackson Heights!] (http://thisisvinny.github.io/Jackson-Heights)
+[Jackson Heights!](http://thisisvinny.github.io/Jackson-Heights)
