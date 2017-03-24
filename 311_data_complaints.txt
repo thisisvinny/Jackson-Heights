@@ -1,0 +1,10 @@
+Complaint type Noise - Residential had 8753 complaints.
+Complaint type HEATING had 4428 complaints.
+Complaint type Blocked Driveway had 3875 complaints.
+Complaint type HEAT/HOT WATER had 3611 complaints.
+Complaint type Street Condition had 3173 complaints.
+Complaint type PLUMBING had 2872 complaints.
+Complaint type Noise - Commercial had 2595 complaints.
+Complaint type Traffic Signal Condition had 2451 complaints.
+Complaint type Street Light Condition had 2419 complaints.
+Complaint type GENERAL CONSTRUCTION had 2320 complaints.
