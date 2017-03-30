@@ -36,6 +36,7 @@ The top 10 license plates that received tickets are as follows:
   * Offender 10: Plate ID 36987TR achieved a breathtaking 197 tickets.
 
 The Biggest 311 Complaints:
+
 Complaint Type | Number of Complaints
 -------------- | --------------------
 Noise - Residential | 8753
