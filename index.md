@@ -1,7 +1,5 @@
-# Jackson Heights
-
-[Jackson Heights!](http://thisisvinny.github.io/Jackson-Heights)
-
+Map of Jackson Heights
+[GeoJSON File](https://github.com/thisisvinny/Jackson-Heights/blob/master/jackson_heights.geojson)
 ![Map of Jackson Heights](https://raw.githubusercontent.com/thisisvinny/Jackson-Heights/master/Jackson_Heights.png)
 
 Total Population: 108,152 (98.2 inhabitants/acre)
@@ -50,4 +48,6 @@ Traffic Signal Condition | 2451
 Street Light Condition | 2419
 GENERAL CONSTRUCTION | 2320
 
+Map of 311 Complaints
+[HTML File](https://github.com/thisisvinny/Jackson-Heights/blob/master/map_jackson_heights.html)
 ![Map of 311 Complaints](https://raw.githubusercontent.com/thisisvinny/Jackson-Heights/master/map_jackson_heights.png)
