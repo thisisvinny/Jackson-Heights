@@ -51,5 +51,5 @@ GENERAL CONSTRUCTION | 2320
 
 Map of 311 Complaints
 
-[HTML File](https://github.com/thisisvinny/Jackson-Heights/blob/master/map_jackson_heights.html)
+[Zoomable Map](thisisvinny.github.io/Jackson-Heights/map_jackson_heights.html)
 ![Map of 311 Complaints](https://raw.githubusercontent.com/thisisvinny/Jackson-Heights/master/map_jackson_heights.png)
